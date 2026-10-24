@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gustavofreze.github.io/aws-certified-cloud-practitioner/sitemap.xml
+Sitemap: https://gustavofreze.github.io/aws-certified-solutions-architect-associate/sitemap.xml
