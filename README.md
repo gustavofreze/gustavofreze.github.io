@@ -7,5 +7,6 @@ one file that every project site under it shares: it allows every crawler and li
 
 - [AWS Certified Cloud Practitioner](https://gustavofreze.github.io/aws-certified-cloud-practitioner/)
 - [AWS Certified Solutions Architect Associate](https://gustavofreze.github.io/aws-certified-solutions-architect-associate/)
+- [Kotlin4Noobs](https://gustavofreze.github.io/kotlin4noobs/)
 
 When a new project site with a sitemap goes live, add its `Sitemap:` line to `robots.txt`.
